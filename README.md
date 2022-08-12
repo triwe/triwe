@@ -15,7 +15,7 @@
 
 - ⚡ Recently, I tried once again to quit, and in response, he gave me this. [Walt points to the bruise on his face left by Hank in "Blood Money."] I can't take this anymore. I live in fear every day that Hank will kill me, or worse, hurt my family. All I could think to do was to make this video and hope that the world will finally see this man for what he really is.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 867-5309</h3>
 <p align="left">
 </p>
 
