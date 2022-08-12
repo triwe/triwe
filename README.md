@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm tristan</h1>
 <h3 align="center">i hardly know what im doing</h3>
 
-- 🔭 I’m currently working on **a huge project**
+- 🔭 I’m currently working on **a fun project**
 
 - 🌱 I’m currently learning **frameworks, teamwork, ect.**
 
-- 👯 I’m looking to collaborate on **my huge project**
+- 👯 I’m looking to collaborate with **a scrum team**
 
-- 🤝 I’m looking for help with **my huge project**
-
-- 👨‍💻 All of my projects are available at [haha](haha)
-
-- 📝 I regularly write articles on [dreamboytristan.com](dreamboytristan.com)
-
-- 💬 Ask me about **nothing.**
-
-- 📫 How to reach me **dont**
+- 🤝 I’m looking for help with **my web app built on MERN**
 
 - 📄 Know about my experiences [^^^](^^^)
 
