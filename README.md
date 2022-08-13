@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm tristan</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">i hardly know what im doing</h3>
 
 - 👴 My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane Albuquerque New Mexico 87104. This is my confession
