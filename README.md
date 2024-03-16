@@ -26,7 +26,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
   <!-- Replace the src attribute value with the actual image URL for AWS SAA badge -->
-  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank" rel="noreferrer"> <img src="https://lab651.com/wp-content/uploads/2023/07/Amazon-Web-Services-AWS-Logo.png" alt="AWS Solutions Architect Associate" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-amazon-aws-3521268-2944772.png?f=webp&w=512" alt="AWS Solutions Architect Associate" width="40" height="40"/> </a>
 </p>
 
 
